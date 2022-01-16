@@ -1,0 +1,26 @@
+.header{
+    background-color:#333;
+    display:flex;
+}
+.head{
+    text-align:center;
+    margin-left:500px;
+}
+.login {
+    width:130px;
+    background: crimson;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 16px;
+    margin-left: 300px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+.login:hover{
+    color: crimson;
+    background: none;
+}
+
